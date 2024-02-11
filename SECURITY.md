@@ -26,6 +26,7 @@ Please include as much of the information listed below as you can to help us bet
 
 This information will help us triage your report more quickly.
 
-## Policy
+## Policy![InShot_20240115_010326371](https://github.com/github/.github/assets/155846905/469a82d9-4c29-45c0-9d64-455011fcd9b3)
+
 
 See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
